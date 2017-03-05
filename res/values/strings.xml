@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">healthhack</string>
+    <string name="title_activity_question_interface">QuestionInterface</string>
+</resources>
